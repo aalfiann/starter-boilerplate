@@ -11,6 +11,11 @@ This just a minimum set of boilerplate.
 - Unit Test with CD/CI
 - Code Style JS Standard
 
+### Why should use this?
+- Standardization your code
+- Less bug with unit test
+- Reduced changes & review time
+
 ### Requirement
 - NodeJS v10
 
